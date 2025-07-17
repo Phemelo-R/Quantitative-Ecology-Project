@@ -1,0 +1,1 @@
+This repository is for our quantitative ecology module (BCB743) in honours. It consists of the files we generated for our results section of the module project. There is a quarto document included that has a workflow of how the data files were created and how the results of our project were calculated and generated along with the students' names next to their section.
